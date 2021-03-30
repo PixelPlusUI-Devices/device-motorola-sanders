@@ -422,6 +422,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     sys.vendor.shutdown.waittime=500
 
-# Maintainer
+# PPUI Props
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.xtended.maintainer=Ashwatthama
+ro.ppui.device_name= Moto G (5S) Plus \
+ro.ppui.version=3.3 \
+ro.ppui.version_code=Tanzanite \
+ro.ppui.is_official=true \
+ro.ppui.maintainer_name=Satham Hussain
