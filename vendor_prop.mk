@@ -425,7 +425,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # PPUI Props
 PRODUCT_PROPERTY_OVERRIDES += \
 ro.ppui.device_name=Moto G (5S) Plus \
-ro.ppui.version=3.3 \
-ro.ppui.version_code=Tanzanite \
+ro.ppui.version=3.4 \
+ro.ppui.version_code=Onxy \
 ro.ppui.is_official=true \
 ro.ppui.maintainer_name=Satham Hussain
