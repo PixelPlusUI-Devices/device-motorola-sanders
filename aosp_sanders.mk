@@ -38,6 +38,14 @@ TARGET_FACE_UNLOCK_SUPPORTED = true
 PPUI_MAINTAINER := Satham Hussain
 TARGET_GAPPS_ARCH := arm64
 
+# PPUI Props
+PRODUCT_PROPERTY_OVERRIDES += \
+ro.ppui.device_name=Moto G (5S) Plus \
+ro.ppui.version=3.5 \
+ro.ppui.version_code=Jasper \
+ro.ppui.is_official=true \
+ro.ppui.maintainer_name=Satham Hussain
+
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := sanders
 PRODUCT_NAME := aosp_sanders

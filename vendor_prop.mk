@@ -421,11 +421,3 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Boot
 PRODUCT_PROPERTY_OVERRIDES += \
     sys.vendor.shutdown.waittime=500
-
-# PPUI Props
-PRODUCT_PROPERTY_OVERRIDES += \
-ro.ppui.device_name=Moto G (5S) Plus \
-ro.ppui.version=3.4 \
-ro.ppui.version_code=Onxy \
-ro.ppui.is_official=true \
-ro.ppui.maintainer_name=Satham Hussain
