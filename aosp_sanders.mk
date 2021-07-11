@@ -41,10 +41,10 @@ TARGET_GAPPS_ARCH := arm64
 # PPUI Props
 PRODUCT_PROPERTY_OVERRIDES += \
 ro.ppui.device_name=MotoG(5S)Plus \
-ro.ppui.version=3.6 \
-ro.ppui.version_code=Unicorn \
+ro.ppui.version=3.7 \
+ro.ppui.version_code=Ragnarok \
 ro.ppui.is_official=true \
-ro.ppui.maintainer_name=Satham Hussain
+ro.ppui.maintainer_name=Satham-Hussain
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := sanders
